@@ -9,7 +9,7 @@ $prikaziOpis = isset($_GET['opis']);
 
 $putanjaSlike =  $slika . ".jpg";
 
-$bg = "#1f2937";
+$bg = "#00185a";
 $card = "#ffffff";
 $text = "#111827";
 
@@ -165,7 +165,7 @@ if ($tema === "light") {
                 Primijeni odabir
             </button>
 
-            <a href="vjezba1c.php" class="btn back">
+            <a href="vjezba2-2.php" class="btn back">
                 Natrag na vježba 1c
             </a>
 
